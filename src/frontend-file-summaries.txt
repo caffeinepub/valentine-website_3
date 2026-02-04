@@ -1,0 +1,12 @@
+{
+  "frontend/src/App.tsx": "Main application component that manages music state, wraps the app with ThemeProvider, and renders all major sections including Header, Hero, MessageSection, Footer, MusicPlayer, and FloatingHearts.",
+  "frontend/src/components/Header.tsx": "Sticky header component with Valentine's Day branding and music toggle button using VolumeX icon for muted state.",
+  "frontend/src/components/Hero.tsx": "Hero section with animated hearts, romantic headline, and decorative background image.",
+  "frontend/src/components/MessageSection.tsx": "Interactive message form with From/To fields and textarea, displays romantic message preview with character limit tracking.",
+  "frontend/src/components/Footer.tsx": "Footer component with Valentine's Day themed branding and caffeine.ai attribution.",
+  "frontend/src/components/FloatingHearts.tsx": "Animated floating hearts background effect with randomized positions, delays, and sizes.",
+  "frontend/src/components/MusicPlayer.tsx": "Audio player component that manages background music playback based on user preference.",
+  "frontend/src/index.css": "Global styles with romantic OKLCH color system (rose/pink/red palette), custom animations for floating hearts, and Google Fonts imports for Playfair Display and Inter.",
+  "frontend/tailwind.config.js": "Tailwind configuration with extended romantic color palette and custom animations.",
+  "frontend/src/hooks/useQueries.ts": "Empty file as no backend queries are needed for this client-side only application."
+}
